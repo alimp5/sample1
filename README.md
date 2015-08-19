@@ -1,7 +1,4 @@
-# sample1
-# my_codes
-# These codes are mine.
-# these codes and scripts are't useful for you.
+# My Sample Codes
+# These codes and scripts aren't useful for you.
 # here is my Temporary. 
-# have a great time dear.
-# By3 bY3.
+# have a great time dear; By3 by3.
